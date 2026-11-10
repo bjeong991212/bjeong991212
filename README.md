@@ -1,8 +1,7 @@
 ## Byungho Jeong
 
-Math + ML engineer, LSE MSc Data Science 24'
-Currently building production ML systems at A.I.Matics.
-Interested in quantitative research, alpha signals, and low-latency systems.
+Quant Researcher at Qraft Technologies.
+Research and develop Reinforcement Learning based order execution models.
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/ericjeong/
